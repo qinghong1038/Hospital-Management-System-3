@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div class="jumbotron">
+    <h1>Hospital Management System</h1>
+    <p class="lead">Yanka Andonova's Application.</p>    
+
+    @if (PatientsDoctorsMS.Models.AuthenticationManager.LoggedUser == null)
+    {
+        <p><a>@Html.ActionLink("Log In", "Login", "Home") &raquo;</a></p>
+    }
+    else
+    {
+        <p><a>@Html.ActionLink("Log Out", "Logout", "Home") &raquo;</a></p>
+    }
+</div>
+
+<div  class="text-center">
+    <img src="~/images/hospital.jpg" alt="img-hospital" style="width:1145px; height:500px; border-radius:10px;"/>
+</div>

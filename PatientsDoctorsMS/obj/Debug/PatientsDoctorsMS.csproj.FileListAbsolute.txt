@@ -1,0 +1,177 @@
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\ApplicationInsights.config
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\csc.exe
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\vbc.exe
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.dll.config
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.pdb
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Antlr3.Runtime.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\DataAccess.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Web.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Newtonsoft.Json.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Helpers.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Mvc.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Optimization.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Razor.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\WebGrease.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\DataAccess.pdb
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Web.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Helpers.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Mvc.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Optimization.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Razor.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Antlr3.Runtime.pdb
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\bin\Newtonsoft.Json.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.csprojResolveAssemblyReference.cache
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.pdb
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\ApplicationInsights.config
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\csc.exe
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\vbc.exe
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.dll.config
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.pdb
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Antlr3.Runtime.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\DataAccess.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Web.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Newtonsoft.Json.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Helpers.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Mvc.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Optimization.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Razor.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\WebGrease.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\DataAccess.pdb
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Web.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Helpers.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Mvc.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Optimization.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Razor.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Antlr3.Runtime.pdb
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Newtonsoft.Json.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.csprojResolveAssemblyReference.cache
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\ApplicationInsights.config
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\csc.exe
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\vbc.exe
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.dll.config
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\PatientsDoctorsMS.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Antlr3.Runtime.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\DataAccess.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Web.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Newtonsoft.Json.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Helpers.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Mvc.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Optimization.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Razor.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\WebGrease.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\DataAccess.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.Web.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Helpers.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Mvc.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Optimization.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.Razor.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Antlr3.Runtime.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\bin\Newtonsoft.Json.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.csprojResolveAssemblyReference.cache
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\PatientsDoctorsMS\obj\Debug\PatientsDoctorsMS.pdb

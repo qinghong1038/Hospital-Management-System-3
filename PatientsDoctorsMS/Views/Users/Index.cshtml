@@ -1,0 +1,52 @@
+﻿@*@model PatientsDoctorsMS.ViewModels.Users.UsersEditVM
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create new appointment", "Create")
+</p>*@
+
+@*@using (Html.BeginForm("Index", "Users", FormMethod.Get))
+{
+    <p>
+        Search: @Html.TextBox("SearchString", Model.searchString as string)
+        <input type="submit" value="Filter" />
+    </p>
+}*@
+
+@*<table class="table table-hover">
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Username</th>
+        <th>Operations</th>
+    </tr>
+
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                @item.Username
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+</table>*@
+
+@*<div>
+    @Html.Partial("_PagingPartial", Model.Pager)
+</div>*@

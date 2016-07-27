@@ -1,0 +1,48 @@
+﻿@model PatientsDoctorsMS.ViewModels.Doctors.AppointmentReviewVM
+
+@{
+    ViewBag.Title = "Review";
+}
+
+<h2>Review an appointment</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Appointment Date
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AppointmentDate)
+        </dd>
+        <dt>
+            Patient
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Patient)
+        </dd>
+        <dt>
+            Status
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.ID) 
+        @Html.HiddenFor(model => model.PatientId)
+        @Html.HiddenFor(model => model.DoctorId)
+        @Html.HiddenFor(model => model.AppointmentDate)  @* don't forget hidded inputs! *@
+
+        <div>
+            <input type="submit" value="Approve" name="Approve" class="btn btn-warning" />
+            <input type="submit" value="Decline" name="Decline" class="btn btn-danger"/>
+        </div>
+
+        <div>
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

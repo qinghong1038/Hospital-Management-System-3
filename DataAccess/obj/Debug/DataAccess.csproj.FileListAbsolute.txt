@@ -1,0 +1,29 @@
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Yanka\Documents\Visual Studio 2015\Projects\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Piter\Desktop\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Yanka\Desktop\PatientsDoctorsMS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

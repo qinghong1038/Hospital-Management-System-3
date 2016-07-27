@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Hospital Management System</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Hospital MS", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    @if (PatientsDoctorsMS.Models.AuthenticationManager.LoggedUser != null)
+                    {
+                        if (PatientsDoctorsMS.Models.AuthenticationManager.LoggedUser.isDoctor == true)
+                        {
+                            <li>@Html.ActionLink("Appointments", "Index", "Doctors")</li>
+                        }
+                        else
+                        {
+                            <li>@Html.ActionLink("Appointments", "Index", "Patients")</li>
+                        }
+                        <li>@Html.ActionLink("Log Out", "Logout", "Home")</li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Log In", "Login", "Home")</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Hospital Management System</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script>
+        jQuery('#datetimepicker').datetimepicker({
+            startDate: '+2016/08/01',
+            allowTimes: [
+              '06:00', '07:00', '08:00',
+              '09:00', '10:00', '11:00', '13:00', '14:00', '15:00', '15:00', '16:00', '17:00', "18:00"
+                    ]
+        });
+    </script>
+</body>
+</html>

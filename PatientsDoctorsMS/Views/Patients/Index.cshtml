@@ -1,0 +1,67 @@
+﻿@model PatientsDoctorsMS.ViewModels.AppointmentsVM.AppointmentsListVM
+
+@{
+    ViewBag.Title = "Appointments";
+}
+
+<h2>Appointments</h2>
+
+<p>
+    @Html.ActionLink("Create New Appointment", "Create")
+</p>
+
+@*@using (Html.BeginForm("Index", "Patients", FormMethod.Get))
+{
+    <p>
+        Search: @Html.TextBox("SearchString", Model.searchString as string)
+        <input type="submit" value="Filter" />
+    </p>
+}*@
+
+<table class="table">
+    <tr>
+        <th>
+            Doctor
+        </th>
+        <th>
+            Patient
+        </th>
+        <th>
+            Appointment Date
+        </th>
+        <th>
+            Status
+        </th>
+        <th>
+            Options
+        </th>
+    </tr>
+
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Doctor.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppointmentDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class = "btn btn-success" }) 
+                @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @class = "btn btn-warning" }) 
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "btn btn-danger"})
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    @Html.Partial("_PagingPartial", Model.Pager)
+</div>

@@ -1,0 +1,51 @@
+﻿@model PatientsDoctorsMS.ViewModels.AppointmentsVM.AppointmentsListVM
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Appointments</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Doctor's Username 
+        </th>
+        <th>
+           Patient's Username
+        </th>
+        <th>
+            Appointment Date
+        </th>
+        <th>
+           Status
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Items) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Doctor.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Patient.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AppointmentDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>
